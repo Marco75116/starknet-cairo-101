@@ -1,3 +1,8 @@
+## My advancement
+I have completed 9 exercices and collected 18 points with this addresse '0x03829fa29627cd79d178cad2733782d4ddf93350af6812731d180ac1e5bb6f7d' ( decimal number : '1587730425164706512693727546257072480472204545287706661236137852865517154173').
+
+
+
 # StarkNet Cairo 101
 Get started with Cairo with this simple tutorial. Complete the puzzles, get points and learn about StarkNet smart contracts!
 
